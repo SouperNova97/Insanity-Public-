@@ -1,0 +1,4 @@
+﻿  Main Function.cpp
+c:\users\teddy\source\repos\honors project 3.0\honors project 3.0\main function.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\teddy\source\repos\honors project 3.0\honors project 3.0\main function.cpp(297): warning C4715: 'Doorway': not all control paths return a value
+  Honors Project 3.0.vcxproj -> C:\Users\teddy\source\repos\Honors Project 3.0\Debug\Honors Project 3.0.exe
